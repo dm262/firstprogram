@@ -1,0 +1,15 @@
+{
+    "name": "dapomakanjuola/firstprogram",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "nit",
+    "authors": [
+        {
+            "name": "dapomakanjuola",
+            "email": "dm262@njit.edu"
+        }
+    ],
+    "require": {}
+}
